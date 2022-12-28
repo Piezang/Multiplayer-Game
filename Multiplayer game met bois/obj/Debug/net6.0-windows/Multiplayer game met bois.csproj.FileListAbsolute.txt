@@ -1,0 +1,17 @@
+C:\Users\Alexander\Desktop\Programming\2022\Desember\Multiplayer game met bois\bin\Debug\net6.0-windows\Multiplayer game met bois.exe
+C:\Users\Alexander\Desktop\Programming\2022\Desember\Multiplayer game met bois\bin\Debug\net6.0-windows\Multiplayer game met bois.deps.json
+C:\Users\Alexander\Desktop\Programming\2022\Desember\Multiplayer game met bois\bin\Debug\net6.0-windows\Multiplayer game met bois.runtimeconfig.json
+C:\Users\Alexander\Desktop\Programming\2022\Desember\Multiplayer game met bois\bin\Debug\net6.0-windows\Multiplayer game met bois.dll
+C:\Users\Alexander\Desktop\Programming\2022\Desember\Multiplayer game met bois\bin\Debug\net6.0-windows\Multiplayer game met bois.pdb
+C:\Users\Alexander\Desktop\Programming\2022\Desember\Multiplayer game met bois\obj\Debug\net6.0-windows\Multiplayer game met bois.csproj.AssemblyReference.cache
+C:\Users\Alexander\Desktop\Programming\2022\Desember\Multiplayer game met bois\obj\Debug\net6.0-windows\Multiplayer_game_met_bois.Form1.resources
+C:\Users\Alexander\Desktop\Programming\2022\Desember\Multiplayer game met bois\obj\Debug\net6.0-windows\Multiplayer game met bois.csproj.GenerateResource.cache
+C:\Users\Alexander\Desktop\Programming\2022\Desember\Multiplayer game met bois\obj\Debug\net6.0-windows\Multiplayer game met bois.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexander\Desktop\Programming\2022\Desember\Multiplayer game met bois\obj\Debug\net6.0-windows\Multiplayer game met bois.AssemblyInfoInputs.cache
+C:\Users\Alexander\Desktop\Programming\2022\Desember\Multiplayer game met bois\obj\Debug\net6.0-windows\Multiplayer game met bois.AssemblyInfo.cs
+C:\Users\Alexander\Desktop\Programming\2022\Desember\Multiplayer game met bois\obj\Debug\net6.0-windows\Multiplayer game met bois.csproj.CoreCompileInputs.cache
+C:\Users\Alexander\Desktop\Programming\2022\Desember\Multiplayer game met bois\obj\Debug\net6.0-windows\Multiplayer game met bois.dll
+C:\Users\Alexander\Desktop\Programming\2022\Desember\Multiplayer game met bois\obj\Debug\net6.0-windows\refint\Multiplayer game met bois.dll
+C:\Users\Alexander\Desktop\Programming\2022\Desember\Multiplayer game met bois\obj\Debug\net6.0-windows\Multiplayer game met bois.pdb
+C:\Users\Alexander\Desktop\Programming\2022\Desember\Multiplayer game met bois\obj\Debug\net6.0-windows\Multiplayer game met bois.genruntimeconfig.cache
+C:\Users\Alexander\Desktop\Programming\2022\Desember\Multiplayer game met bois\obj\Debug\net6.0-windows\ref\Multiplayer game met bois.dll
