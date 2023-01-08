@@ -36,6 +36,7 @@
             this.rtServer = new System.Windows.Forms.RichTextBox();
             this.Tabs = new System.Windows.Forms.TabControl();
             this.ServerPage = new System.Windows.Forms.TabPage();
+            this.btnSendServer = new System.Windows.Forms.Button();
             this.txtOutput = new System.Windows.Forms.TextBox();
             this.btnStop = new System.Windows.Forms.Button();
             this.ClientPage = new System.Windows.Forms.TabPage();
@@ -47,7 +48,7 @@
             this.lbl = new System.Windows.Forms.Label();
             this.txtHostClient = new System.Windows.Forms.TextBox();
             this.label4 = new System.Windows.Forms.Label();
-            this.btnSendServer = new System.Windows.Forms.Button();
+            this.button1 = new System.Windows.Forms.Button();
             this.Tabs.SuspendLayout();
             this.ServerPage.SuspendLayout();
             this.ClientPage.SuspendLayout();
@@ -119,6 +120,7 @@
             // ServerPage
             // 
             this.ServerPage.BackColor = System.Drawing.Color.DimGray;
+            this.ServerPage.Controls.Add(this.button1);
             this.ServerPage.Controls.Add(this.btnSendServer);
             this.ServerPage.Controls.Add(this.txtOutput);
             this.ServerPage.Controls.Add(this.btnStop);
@@ -134,6 +136,16 @@
             this.ServerPage.Size = new System.Drawing.Size(886, 503);
             this.ServerPage.TabIndex = 0;
             this.ServerPage.Text = "Server";
+            // 
+            // btnSendServer
+            // 
+            this.btnSendServer.Location = new System.Drawing.Point(18, 281);
+            this.btnSendServer.Name = "btnSendServer";
+            this.btnSendServer.Size = new System.Drawing.Size(234, 48);
+            this.btnSendServer.TabIndex = 8;
+            this.btnSendServer.Text = "Send";
+            this.btnSendServer.UseVisualStyleBackColor = true;
+            this.btnSendServer.Click += new System.EventHandler(this.btnSendServer_Click);
             // 
             // txtOutput
             // 
@@ -241,15 +253,14 @@
             this.label4.TabIndex = 9;
             this.label4.Text = "Port:";
             // 
-            // btnSendServer
+            // button1
             // 
-            this.btnSendServer.Location = new System.Drawing.Point(18, 281);
-            this.btnSendServer.Name = "btnSendServer";
-            this.btnSendServer.Size = new System.Drawing.Size(234, 48);
-            this.btnSendServer.TabIndex = 8;
-            this.btnSendServer.Text = "Send";
-            this.btnSendServer.UseVisualStyleBackColor = true;
-            this.btnSendServer.Click += new System.EventHandler(this.btnSendServer_Click);
+            this.button1.Location = new System.Drawing.Point(312, 119);
+            this.button1.Name = "button1";
+            this.button1.Size = new System.Drawing.Size(75, 23);
+            this.button1.TabIndex = 9;
+            this.button1.Text = "button1";
+            this.button1.UseVisualStyleBackColor = true;
             // 
             // Form1
             // 
@@ -290,5 +301,6 @@
         private Label label4;
         private TextBox txtOutput;
         private Button btnSendServer;
+        private Button button1;
     }
 }

@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Alexander\\Desktop\\Programming\\2022\\Desember\\Multiplayer game met bois\\Multiplayer game met bois.csproj": {}
+    "C:\\Users\\charl\\OneDrive\\Documents\\C# Projects\\MultiPlayerGame\\Multiplayer game met bois\\Multiplayer game met bois.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Alexander\\Desktop\\Programming\\2022\\Desember\\Multiplayer game met bois\\Multiplayer game met bois.csproj": {
+    "C:\\Users\\charl\\OneDrive\\Documents\\C# Projects\\MultiPlayerGame\\Multiplayer game met bois\\Multiplayer game met bois.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Alexander\\Desktop\\Programming\\2022\\Desember\\Multiplayer game met bois\\Multiplayer game met bois.csproj",
+        "projectUniqueName": "C:\\Users\\charl\\OneDrive\\Documents\\C# Projects\\MultiPlayerGame\\Multiplayer game met bois\\Multiplayer game met bois.csproj",
         "projectName": "Multiplayer game met bois",
-        "projectPath": "C:\\Users\\Alexander\\Desktop\\Programming\\2022\\Desember\\Multiplayer game met bois\\Multiplayer game met bois.csproj",
-        "packagesPath": "C:\\Users\\Alexander\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Alexander\\Desktop\\Programming\\2022\\Desember\\Multiplayer game met bois\\obj\\",
+        "projectPath": "C:\\Users\\charl\\OneDrive\\Documents\\C# Projects\\MultiPlayerGame\\Multiplayer game met bois\\Multiplayer game met bois.csproj",
+        "packagesPath": "C:\\Users\\charl\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\charl\\OneDrive\\Documents\\C# Projects\\MultiPlayerGame\\Multiplayer game met bois\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Alexander\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\charl\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
